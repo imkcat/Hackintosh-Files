@@ -18,7 +18,7 @@ CPU Frequency Spikes(Ghz): 0.8, 4.0, 4.2, 4.4
 
 Nvidia Web Driver: 387.10.10.10.40.105
 
-ALC 1150: Sometime no output devices after reboot
+ALC 1150: No output devices after reboot randomly
 
 ## License
 
